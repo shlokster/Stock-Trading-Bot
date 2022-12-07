@@ -12,5 +12,5 @@ Execute run.txt for Techincal Analysis and StockSentimentTrading for Sentimental
 <img src="./extra/result1.png" width=270>
 <img src="./extra/result2.png" width=600>
 
-#### The left side shows only sentimental analysis and the right shows both technial and sentimental analysis where we use Deep Q learning.
-#### The top screenshot shows the final output visualised to get the profit of $1141.45
+#### The first screenshot shows the final output visualised to get the profit of $1141.45
+#### The second screenshot shows the trade using only sentimental analysis and the third screenshot shows both technial and sentimental analysis where we use Deep Q learning.
