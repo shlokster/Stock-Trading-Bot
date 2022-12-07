@@ -1,0 +1,3 @@
+pip3 install -r requirements.txt
+python3 train.py data/GOOG.csv data/GOOG_2018.csv --strategy t-dqn
+python3 eval.py data/GOOG_2019.csv --model-name model_dqn_GOOG_50 --debug
