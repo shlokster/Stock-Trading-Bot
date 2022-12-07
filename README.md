@@ -6,7 +6,8 @@ Inspiration: https://towardsdatascience.com/https-towardsdatascience-com-algorit
 
 Execute run.txt for Techincal Analysis and StockSentimentTrading for Sentimental Analysis.
 
-##Results: 
+##Results:
+Trained on GOOG 2010-17 stock data, tested on 2019 with a profit of $1141.45 (validated on 2018 with profit of $863.41): 
 (./extra/visualization.png)
 (./extra/result1.png)
 (./extra/result2.png)
