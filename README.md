@@ -4,4 +4,4 @@ We Implement a real time trading bot which buys and sells according to the senti
 
 Inspiration: https://towardsdatascience.com/https-towardsdatascience-com-algorithmic-trading-using-sentiment-analysis-on-news-articles-83db77966704
 
-
+Execute run.txt for Techincal Analysis and StockSentimentTrading for Sentimental Analysis.
